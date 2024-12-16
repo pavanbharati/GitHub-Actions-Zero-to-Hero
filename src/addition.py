@@ -8,4 +8,4 @@ def test_add():
     assert add(1, -1) == 0
 def test_sub():
     assert sub(1, 2) == 1
-    
+    print ("the result is" assert)
